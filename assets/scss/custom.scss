@@ -1,0 +1,15 @@
+// Override this file to add your own SCSS styling.
+
+.docs-sidenav {
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  font-weight: 300;
+}
+.docs-sidebar .docs-toc-item.active a, .docs-sidebar .docs-toc-item a.active, .docs-sidebar .nav > .active:hover > a, .docs-sidebar .nav > .active > a {
+  font-weight: 400;
+}
+
+.docs-article-container {
+  max-width: 100%;
+  font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+  font-size: 0.8rem;
+}
