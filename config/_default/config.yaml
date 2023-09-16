@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Spring解析' # Website name
+title: 'Java编程规范参考' # Website name
 baseURL: 'https://spring.jaune162.blog/' # Website URL
 
 ############################

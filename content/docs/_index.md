@@ -4,6 +4,5 @@ type: book # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+本文档是一份Java编程规范的参考文档，如果要作为您的公司的规范使用，请结合公司的实际情况，直接或对文档中的内容修改后再进行使用。
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="spring使用" >}}
